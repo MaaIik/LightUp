@@ -1,3 +1,3 @@
-# LightUp / Akari
+# LightUp / Akari Puzzle Solver
 
-In this Project, I am working on creating an Akari puzzle solver. 
+In this Project, I am working on creating an Akari puzzle solver.
